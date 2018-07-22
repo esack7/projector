@@ -1,0 +1,32 @@
+PODS:
+  - MCTColorPicker (0.1.4)
+  - MCTDataCache (1.0.2)
+  - Shimmer (1.0.2)
+
+DEPENDENCIES:
+  - MCTColorPicker (~> 0.1)
+  - MCTDataCache (from `https://github.com/ministrycentered/MCTDataCache.git`)
+  - Shimmer (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MCTColorPicker
+    - Shimmer
+
+EXTERNAL SOURCES:
+  MCTDataCache:
+    :git: https://github.com/ministrycentered/MCTDataCache.git
+
+CHECKOUT OPTIONS:
+  MCTDataCache:
+    :commit: e37f7a233a72f992e33df9e56d514203d1e3d834
+    :git: https://github.com/ministrycentered/MCTDataCache.git
+
+SPEC CHECKSUMS:
+  MCTColorPicker: 025ecbdf18c54a4944e3bded28b2fde0084536a2
+  MCTDataCache: 89ab873f52e8b174860761acfc86d1f47ac9b4ba
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+
+PODFILE CHECKSUM: 1097c2d2b6ed35fbf3d342189231de2a248f3853
+
+COCOAPODS: 1.5.3
